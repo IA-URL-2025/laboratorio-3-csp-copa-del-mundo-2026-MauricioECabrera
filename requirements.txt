@@ -1,1 +1,1 @@
-pytest==8.0.0
+pip install pytest==8.0.0
